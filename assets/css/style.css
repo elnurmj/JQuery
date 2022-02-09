@@ -1,0 +1,10 @@
+button{
+    color: cadetblue;
+}
+button img{
+    height: 12px;
+    color: gray;
+}
+.de-active{
+    display: none;
+}
